@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyTicTakToe</string>
+    <string name="button1"></string>
+    <string name="button2"></string>
+    <string name="button3"></string>
+    <string name="button4"></string>
+    <string name="button5"></string>
+    <string name="button6"></string>
+    <string name="button7"></string>
+    <string name="button8"></string>
+    <string name="button9"></string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="pl1">Player 1(X)</string>
+    <string name="pl2">Player 2(O)</string>
+    <string name="pl1Won">Player (X) WON</string>
+    <string name="pl2Won">Player (O) WON</string>
+    <string name="resetButton">Reset the Game</string>
+    <string name="drawText">Draw. Restart the game</string>
+</resources>
